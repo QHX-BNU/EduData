@@ -1,0 +1,62 @@
+﻿dataset,User,language,subject,task
+AFQMC,Student,ZH,Finance,识别金融语义相似度
+C3,Student,ZH,Chinese,中文阅读理解
+ChiD,Student,ZH,Chinese,成语完形填空
+CLUEWSC2020,Student,ZH,Chinese,代词消歧
+CMNLI,Student,ZH,Chinese,判断给定的两个句子之间属于蕴涵、中立、矛盾关系
+CMRC2018,Student,ZH,Chinese,中文阅读理解
+CSL,Student,ZH,Comprehensive,识别关键词
+DRCD,Student,ZH,Traditional Chinese,中文阅读理解
+IFLYTEK,Student,ZH,Chinese,长文本主题分类
+OCNLI,Student,ZH,Chinese,判断给定的两个句子之间属于蕴涵、中立、矛盾关系
+TNEWS,Student,ZH,Comprehensive,短文本主题分类
+Lang8,Student,Multi,linguistic,语法错误修正( grammatical error correction)
+Clang8,Student,Multi,linguistic,语法错误修正( grammatical error correction)
+CoNLL2014,Student,EN,linguistic,语法错误修正( grammatical error correction)
+BEA19,Student,EN,linguistic,语法错误修正( grammatical error correction)
+SIGHAN,Student,ZH,linguistic,语法错误修正( grammatical error correction)
+CTC,Student,ZH,linguistic,语法错误修正( grammatical error correction)
+FCGEC,Student,ZH,linguistic,语法错误修正( grammatical error correction)
+FlaCGEC,Student,ZH,linguistic,语法错误修正( grammatical error correction)
+GECCC,Student,CS,linguistic,语法错误修正( grammatical error correction)
+RULECGEC,Student,RU,linguistic,语法错误修正( grammatical error correction)
+Falko-MERLIN,Student,GE,linguistic,语法错误修正( grammatical error correction)
+COWS-L2H,Student,ES,linguistic,语法错误修正( grammatical error correction)
+UA-GEC,Student,UK,linguistic,语法错误修正( grammatical error correction)
+RONACC,Student,RO,linguistic,语法错误修正( grammatical error correction)
+Defects4J,Student,Java,Computer Science,Java software test
+RACE,Teacher,EN,linguistic, reading comprehension
+FairytaleQA,Teacher,EN,literature,reading comprehension
+LearningQ,Teacher,EN,Comprehensive,question generation
+KANQ,Teacher,EN,Science,  question generation
+EduQG,Teacher,EN,Comprehensive,  question generation
+SciQ,Teacher,EN,Science,distractor generation
+MCQL,Teacher,EN,Comprehensive,distractor generation
+Televic&WeZooz,Teacher,Multi,Comprehensive,distractor generation
+CLC-FCE,Teacher,EN,linguistic,语法错误修正( grammatical error correction)
+ASAP,Teacher,EN,linguistic,Automated Student Assessment Prize
+HSK,Teacher,ZH,linguistic, Chinese teaching and research
+UKP-ICLE,Teacher,EN,linguistic,argument annotations
+TOEFL11,Teacher,EN,linguistic,"native language identification, grammatical error detection and correction, automatic essay scoring."
+InroClass,Student,C,Computer Science,Automatic Program Repair
+ManyBugs,Student,C,Computer Science,Automatic Program Repair
+QuixBugs,Student,Multi,Computer Science,Automatic Program Repair
+Bugs2Fix,Student,Java,Computer Science,Automatic Program Repair
+CodeReview,Student,Multi,Computer Science,Code Review Generation
+CodeReview-New,Student,Multi,Computer Science,Code Review Generation
+MATH401,Student,EN,Math,calculate arithmetic expressions
+SVAMP,Student,EN,Math,solve math question
+AQUA,Student,EN,Art,Algebra Question Answering with Rationales
+AQuA,Student,EN,Math,solve math question
+MAWPS,Student,EN,Math,solve math question
+CSQA,Student,EN,Comprehensive,Commonsense Reasoning
+StrategyQA,Student,EN,Comprehensive,Commonsense Reasoning
+SayCan,Robot,EN,Comprehensive,Commonsense Reasoning
+Instruction-Induction benchmark,Comprehensive,EN,Comprehensive,instruction-induction
+BigBench,Comprehensive,EN,Comprehensive,comprehensive tasks
+TruthfulQA Benchmark,Comprehensive,EN,Comprehensive,generation and multi-choice
+CoQA,Student,EN,Comprehensive,Conversational Question Answering
+QuAC,Student,EN,Comprehensive, Question Answering in Context(dialog)
+SQuAD,Student,EN,Comprehensive,reading comprehension
+ALFWorld,Student,EN,Comprehensive,solving tasks in text world
+ScienceWorld,Student,EN,Science,solving tasks in text world

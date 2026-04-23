@@ -1,0 +1,43 @@
+﻿dataset,user,language,subject,hasUserId,hasUserContext,hasQuestion,hasQuestionText,hasTime,hasConcept,hasConceptName,hasConceptRelation,hasHint,hasInteraction,hasStudentScore,hasCorrectAnswer,hasUserAnswer
+ASSISTments2009-2010,Student,EN,Math,1,0,1,0,1,1,1,0,1,1,1,1,0
+ASSISTments2012-2013,Student,EN,Math,1,0,1,0,1,1,1,0,1,1,1,1,0
+ASSITMENT2015,Student,EN,Math,1,0,1,0,0,0,0,0,0,0,1,0,1
+ASSISTments2017,Student,EN,Math,1,0,1,0,1,1,0,0,1,1,1,0,0
+Synthetic,Student,EN,Math,1,0,1,0,0,0,0,0,0,0,1,0,0
+EdNet-KT,Student,EN,English,1,0,1,0,1,1,0,0,0,1,0,1,1
+Math2015,Student,ZH,Math,0,0,0,0,0,0,0,0,0,0,1,0,0
+OLI fall 2011,Student,EN,Engineering/Physics,1,0,1,0,1,1,1,0,1,1,1,0,0
+Junyi,Student,ZH,Comprehensive,1,0,1,0,1,1,0,1,1,1,1,0,0
+PISA2015math,Student,"EN,ZH",Math,1,1,1,0,0,0,0,0,0,0,1,0,0
+KDD cup 2010,Student,EN,Math,1,0,1,0,1,1,1,0,1,1,1,0,0
+ALGeography,Student,"CZ,EN",Geography,1,1,1,0,1,0,0,0,0,0,0,1,1
+ALMatMat,Student,"CZ,EN",Math,1,0,1,0,1,1,1,1,0,1,1,1,1
+ALAnatom,Student,"CZ,EN",Anatomy,1,0,1,0,1,1,1,0,1,1,0,1,1
+LUNA,Student,ZH,Math,0,0,1,1,0,0,0,0,0,0,0,0,0
+MATH,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+MATH23K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+MATHQA,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+Ape210K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+Dolphin18K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+Draw1K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+GSM8K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+NIPS 2020,Student,EN,Math,1,1,1,1(image),1,1,1,1,0,1,1,1,1
+MoocCube,Studeng/Teacher,ZH,Comprehensive,1,0,0,0,1,1,1,1,0,1,0,0,0
+ASdiv,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+IconQA,Student,EN,Comprehensive,0,0,1,1(image),0,0,0,0,0,0,0,1,0
+TQA,Student,EN,Science,0,0,1,1,0,0,0,0,0,0,0,1,0
+Geometry3K,Student,EN,Geometry,0,0,1,1,0,1,1,0,0,0,0,1,0
+AI2D,Student,EN,Science,0,0,1,1,0,0,0,0,0,0,0,1,0
+SCIENCEQA,Student,EN,Science,0,0,1,1,0,1,1,0,1,0,0,1,0
+MedQA,Student,"EN,ZH",Medicine,0,0,1,1,0,0,0,0,0,0,0,1,0
+MedMCQA,Student,EN,Medicine,0,0,1,1,0,1,1,0,0,0,0,1,0
+TheoremQA,Student,EN,Science,0,0,1,1,0,0,0,0,0,0,0,1,0
+EXEQ-300k,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,0,0
+OFEQ-10K,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,0,0
+TABMWP,Student,EN,Math,0,0,1,1,0,0,0,0,0,0,0,1,0
+ARC,Student,EN,Science,0,0,1,1,0,0,0,0,0,0,0,1,0
+C-Eval,Student,ZH,Comprehensive,0,0,1,1,0,0,0,0,0,0,0,1,0
+GAOKAO-bench,Student,"ZH,EN",Comprehensive,0,0,1,1,0,0,0,0,0,0,0,1,0
+AGIEval,Student,"ZH,EN",Comprehensive,0,0,1,1,0,0,0,0,0,0,0,1,0
+MMLU,Student,EN,Comprehensive,0,0,1,1,0,0,0,0,0,0,0,1,0
+CMMLU,Student,ZH,Comprehensive,0,0,1,1,0,0,0,0,0,0,0,1,0
